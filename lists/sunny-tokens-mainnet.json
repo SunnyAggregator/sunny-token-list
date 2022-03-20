@@ -31,9 +31,9 @@
       }
     },
     {
-      "symbol": "tapSunSBR",
-      "name": "tapSunSBR",
-      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/tapsunsbr.svg",
+      "symbol": "baconSBR",
+      "name": "Bacon SBR (sunSBR Token of Appreciation)",
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/baconsbr.svg",
       "decimals": 6,
       "address": "BaconSBRjNckjeQCi6E2Ndg8wSmAwPgmfmZnF6ZmyFhz",
       "chainId": 101,
